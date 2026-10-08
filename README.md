@@ -1,6 +1,8 @@
 # 06-Football-Radar-NicolasPepe-FerranTorres
 **Comparative Player Analysis — Nicolas Pépé vs Ferran Torres**
+
 Comparative football performance analysis using radar charts and player metrics.
+
 **Overview**
 
 This project presents a comparative football performance analysis between Nicolas Pépé and Ferran Torres using radar visualisation.
